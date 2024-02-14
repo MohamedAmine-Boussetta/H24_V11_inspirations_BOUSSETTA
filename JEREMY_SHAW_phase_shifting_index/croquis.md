@@ -1,1 +1,1 @@
-
+![photo](Croquis-salle.png)
