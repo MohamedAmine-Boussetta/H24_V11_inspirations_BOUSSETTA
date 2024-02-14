@@ -1,1 +1,1 @@
-![photo](photos - vidéos/ Croquis - salle.png)
+![photo](médias/Croquis-salle.png)
