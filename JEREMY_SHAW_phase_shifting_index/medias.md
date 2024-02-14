@@ -1,1 +1,1 @@
-![photo](médias/Photo-salle.png)
+![photo](médias/Photo-Salle.png)
