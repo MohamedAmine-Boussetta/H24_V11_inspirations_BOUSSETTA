@@ -2,4 +2,4 @@
 
 ### Exposition Jeremy Shaw, Phase Shifting index ###
 
-![photo](médias/Affiche-Présentation.png)
+![photo](médias/Affiche-Presentation.png)
