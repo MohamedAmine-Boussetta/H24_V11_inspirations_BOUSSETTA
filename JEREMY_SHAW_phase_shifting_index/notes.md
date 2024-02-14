@@ -12,13 +12,13 @@ Nom de l'artiste: Jeremy Shaw
 
 Année de réalisation: 2020
 
-Description de l'oeuvre: Installation vidéographique à 7 canaux, couleurs noir et blanc, avec sons multi-canaux et lumière. Durée: 35min 17sec.
+Description de l'oeuvre: 
 
 Type d'installation: Contemplative
 
 Mise en espace: Une salle de taille moyenne avec 5 écrans placés en W avec des endroits ou s'assoir en arrière ou devant certains écrans.
 
-Composantes et techniques: 
+Composantes et techniques: Installation vidéographique à 7 canaux, couleurs noir et blanc, avec sons multi-canaux et lumière. Durée: 35min 17sec.
 
 Éléments nécessaires à la mise en exposition: 5 grands écrans, 7 canaux et une salle qui à une bonne taille.
 
