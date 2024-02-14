@@ -1,1 +1,1 @@
-![photo](médias/Photo-Salle.png)
+![photo](médias/Affiche-Presentation.png)
