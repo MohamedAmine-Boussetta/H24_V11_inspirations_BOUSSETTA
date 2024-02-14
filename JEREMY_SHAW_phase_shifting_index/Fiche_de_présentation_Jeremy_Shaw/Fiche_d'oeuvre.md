@@ -1,8 +1,8 @@
-#### TP01 Exposition Jeremy Shaw ####
+## TP01 Exposition Jeremy Shaw ##
 
 ### Exposition Jeremy Shaw, Phase Shifting index ###
 
 
 
-## Informations sur l'exposition ##
+#### Informations sur l'exposition ####
 
