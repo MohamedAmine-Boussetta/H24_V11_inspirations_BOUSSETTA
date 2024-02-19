@@ -21,3 +21,5 @@ Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index 
 #### Source: https://fonderiedarling.org/Phase-Shifting-Index
 ![photo](médias/Cartel-1.png)
 ![photo](médias/Cartel-2.png)
+
+Cette exposition est une exposition de type contemplative, parce que l'experience est visuelle. Il faut qu'on regarde l'oeuvre pour l'admirer et la comprendre. 
