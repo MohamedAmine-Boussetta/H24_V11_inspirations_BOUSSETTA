@@ -5,3 +5,5 @@
 ### Informations sur l'exposition ###
 
 Le nom de l'exposition est Phase Shifting index
+
+Elle a été présenté à la fonderie Darling
