@@ -27,5 +27,5 @@ Cette exposition est une exposition de type contemplative, parce que l'experienc
 ### Mise en espace de l'oeuvre, composantes et techniques ###
 
 Il y a sept écrans au total utilisés dans l'œuvre. Les écrans sont placés en sorte de ranger avec quatre écrans en avant et trois écrans en arrière. 
-![photo](médias/croquis.png)
+![photo](médias/Croquis-salle.png)
 ![photo](médias/Photo-Salle.png)
