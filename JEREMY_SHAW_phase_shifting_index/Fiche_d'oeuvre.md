@@ -24,7 +24,7 @@ Alliant magistralement faux documentaires, chorégraphies, évocations de pratiq
 ![photo](médias/Cartel-1.png)
 ![photo](médias/Cartel-2.png)
 
-Cette exposition est une exposition de type contemplative, parce que l'experience est visuelle. Il faut qu'on regarde l'oeuvre pour l'admirer et la comprendre. 
+Cette exposition est une exposition de type contemplatif, parce que l'expérience est visuelle. Il faut qu'on regarde l'œuvre pour l'admirer et la comprendre.
 
 ### Mise en espace de l'oeuvre ###
 
