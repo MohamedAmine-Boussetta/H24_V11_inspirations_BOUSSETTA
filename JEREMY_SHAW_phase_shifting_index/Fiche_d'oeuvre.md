@@ -28,6 +28,6 @@ Cette exposition est une exposition de type contemplative, parce que l'experienc
 
 ### Mise en espace de l'oeuvre ###
 
-Il y a sept écrans au total utilisés dans l'œuvre. Les écrans sont placés en sorte de ranger avec quatre écrans en avant et trois écrans en arrière. 
+Il y a sept écrans au total utilisés dans l'œuvre. Les écrans sont placés en sorte de ranger avec quatre écrans en avant et trois écrans en arrière. Les écrans sont suspendus au plafond, ce qui laisse de l'espace derrière chaque écran. En arrière de la pièce, il y a comme une estrade couverte d'un tapis qui nous laisse nous asseoir. Devant certains écrans, il y a un banc avec encore un tapis qui les recouvre, ce qui nous laisse nous asseoir juste devant l'écran.
 ![photo](médias/Croquis-salle.png)
 ![photo](médias/Photo-Salle.png)
