@@ -23,3 +23,9 @@ Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index 
 ![photo](médias/Cartel-2.png)
 
 Cette exposition est une exposition de type contemplative, parce que l'experience est visuelle. Il faut qu'on regarde l'oeuvre pour l'admirer et la comprendre. 
+
+### Mise en espace de l'oeuvre, composantes et techniques ###
+
+Il y a sept écrans au total utilisés dans l'œuvre. Les écrans sont placés en sorte de ranger avec quatre écrans en avant et trois écrans en arrière. 
+![photo](médias/croquis.png)
+![photo](médias/Photo-Salle.png)
