@@ -34,3 +34,5 @@ Il y a sept écrans au total utilisés dans l'œuvre. Les écrans sont placés e
 ![photo](médias/Photo-Salle.png)
 
 
+### Expérience vécue et avis sur l'exposition ###
+
