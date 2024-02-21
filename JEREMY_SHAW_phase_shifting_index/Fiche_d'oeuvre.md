@@ -25,6 +25,7 @@ Alliant magistralement faux documentaires, chorégraphies, évocations de pratiq
 ![photo](médias/Cartel-2.png)
 
 Cette exposition est une exposition de type immersive, qui nous plonge dans un monde frénétique.
+![photo](Image-immersive.jpg)
 
 ### Mise en espace de l'oeuvre ###
 
