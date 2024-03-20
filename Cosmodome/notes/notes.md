@@ -1,4 +1,4 @@
-6 salles : 3 visuelles 3 interactives
+6 salles : 3 visuelles 3 interactives <br/>
 Interactives : <br/> 
    -Choisir les composants pour créer une sonde spatiale. (Salle 1) <br/>
    -Trouver la bonne trajectoire et la bonne vitesse pour envoyer la sonde à la destination choisie dans la salle précédente. (Salle 2) <br/>
